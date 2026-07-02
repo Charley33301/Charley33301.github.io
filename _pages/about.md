@@ -28,15 +28,14 @@ He teaches interdisciplinary courses such as AI Science and Technology, Transpor
 He plans to recruit 1 PhD student and 1-2 master's students each year. Students with a background in computer science and interested in the interdisciplinary direction of AI + Transportation are welcome to apply!
 
 # 🔍 Projects
-- 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
-- 🔥`New！`国家自然科学基金面上项目, 知识启发的生成式道路养护决策方法研究, 主持
+- 🔥`New！`国家自然科学基金交叉科学部青年B类项目(2025), 主持
+- 🔥`New！`国家自然科学基金面上项目, 知识启发的生成式道路养护决策方法研究(2024), 主持
 - 国家重点研发计划(2023), 智能网联道路交通系统的能源自洽技术, 子课题主持
 - 上海市科技创新行动计划(2023), 道路基础设施多维体征的数字化感知与评价方法研究, 主持
 - 国家重点研发计划(2022), 弹性交通系统信息物理体系构建, 子课题主持
 - 国家自然科学基金(2022), 众筹数据驱动的城市路网平整度感知方法研究, 主持
 - 上海市科技创新行动计划(2021), 复杂地下道路韧性运行与智慧防灾关键技术研究与示范, 子课题主持
 - 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
-- 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
 
 # 📰🔥 News
