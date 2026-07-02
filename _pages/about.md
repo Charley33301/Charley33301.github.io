@@ -347,6 +347,14 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 .past-pub-list li:last-child {
   border-bottom: none;
 }
+.past-pub-list .badge {
+  position: static;
+  display: inline-block;
+  margin: 0 4px 0 0;
+  padding: 1px 6px;
+  border-radius: 3px;
+  vertical-align: middle;
+}
 </style>
 
 <ul class="past-pub-list">
