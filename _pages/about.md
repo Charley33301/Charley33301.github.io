@@ -17,33 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Chenglong Liu is currently a Research Fellow and Associate Professor at the College of Transportation Engineering, Tongji University, where he also serves as the Deputy Dean of the Institute of Transport Science and Technology. He has been selected for several prestigious talent programs, including the National Science Fund for Excellent Young Scholars (Type B), the Shanghai "35 Under 35" Technology Leaders, the Shanghai Rising-Star Program, and the Young Elite Scientists Sponsorship Program by the China Highway and Transportation Society (CHTS).
-Dr. Liu’s research focuses on the interdisciplinary intersection of Road Engineering and Information Engineering, with a specific emphasis on the digital operation and maintenance (O&M) management of transportation infrastructure.
-He serves as an appointed consultant for the United Nations in the field of transportation and holds technical committee memberships in the World Transport Convention (WTC), the Transportation Research Board (TRB), and the China Transportation Association (CTA). He was a lead author for the Energy-saving and New Energy Vehicle Technology Roadmap. Additionally, he serves as a Young Editorial Board Member for the International Journal of Transportation Science and Technology (JCR-Q1) and is an invited reviewer for over 60 SCI-indexed journals.
+Dr. Chenglong Liu is a Research Fellow/Tenured Associate Professor and Doctoral Supervisor at Tongji University, where he also serves as the Deputy Dean of the Institute of Transport Science and Technology. He has been selected for prestigious talent programs including the National Natural Science Foundation of China (Type B, National Excellent Young Scientists Fund), the Shanghai "35 Under 35" Science and Technology Leading Talents Program, and the Shanghai Rising-Star Program for Young Science and Technology Talents.
 
-Dr. Liu has published over 100 research papers in top-tier journals and conferences, including AIC、Transport Res. C、IEEE Trans. ITS, and the China Journal of Highway and Transport.
-Multiple research outcomes have been selected as IEEE ITSM Cover Papers, Annual Excellent Papers of China Journal of Highway and Transport, ESI Highly Cited Papers, ESI Hot Papers, CNKI Highly Cited/Downloaded/High PCSI Papers, Major Scientific and Technological Achievements of the Ministry of Transport, and COTA Best Presentation Awards. Related achievements have been granted over 40 patents in China, the United States, the United Kingdom, and international patents. He has been honored with the China Patent Excellence Award and the Shanghai Top 100 High-Value Patents. His work has achieved result transformation and industrial application worth over 10 million RMB, covering more than 400,000 kilometers across over 20 provinces in China. He has received awards including the First Prize of the Shanghai Science and Technology Progress Award, the Grand Prize/First Prize of the Science and Technology Award of the China Highway and Transportation Society, the First Prize of the Science and Technology Progress Award of the China Transportation Association, and the First Prize for Invention and Innovation by the China Invention Association.
+He serves as an appointed consultant for the United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP), editorial board member of 7 domestic and international journals including Scientific Data (a Nature data journal), International Journal of Transportation Science and Technology (JCR-Q1), and China Journal of Highway and Transport (Top 1 in the Chinese field), as well as technical/young committee member of academic organizations including WTC, TRB, and CTA.
 
-He teaches interdisciplinary courses such as AI Science and Technology, Transportation Data Analysis, Computer Vision, and Transportation Technology Competitions, and won the First Prize in the Young Teachers' Teaching Competition at Tongji University. He has supervised undergraduate and graduate students to win the First Prize in the National Undergraduate Transportation Science and Technology Competition, the Track Champion of the SODIC Global Open Data Application Innovation Contest, the First Prize in the Yangtze River Delta Open Data Innovation Application Competition, and the Silver Award in the National "Internet+" College Students Innovation and Entrepreneurship Competition (Gold Award in Shanghai). Many of the undergraduate and graduate students he supervised have gone on to further studies at top domestic and international universities such as UC Berkeley, Cambridge, Tsinghua University, Peking University, and Tongji University.
+He has published over 100 research papers, with more than 10 achievements selected as IEEE ITSM Cover Papers, F5000 Top Papers, Annual Excellent Papers of China Journal of Highway and Transport, ESI Highly Cited Papers/Hot Papers, and Major Scientific and Technological Achievements of the Ministry of Transport. He has been granted over 50 Chinese, US, UK, and international patents, received the China Patent Excellence Award and Shanghai Top 100 High-Value Patents, and achieved technology transfer and industrial application worth over 10 million RMB. He has received provincial and ministerial awards including the First Prize of Shanghai Science and Technology Progress Award, Second Prizes of Beijing/Guangdong/Shaanxi/Jiangxi Science and Technology Progress Awards, Grand Prize/First Prize of the Science and Technology Award of China Highway and Transportation Society, First Prize of the Science and Technology Progress Award of China Transportation Association, and First Prize for Invention and Innovation by China Invention Association.
 
-Research Interests: Digital Sensing of Infrastructure, Digital Twins, Smart Cities, AI Applications
+He teaches interdisciplinary courses such as AI Science and Technology, Transportation Data Analysis (Chinese/English), Computer Vision, Transport Economics (Chinese/English), and Transportation Technology Competition (National First-Class Course). He has supervised undergraduate and graduate students to win the First Prize in the National Undergraduate Transportation Science and Technology Competition, Track Champion of the Global Open Data Application Innovation Contest, First Prize in the Yangtze River Delta Open Data Innovation Application Competition, and Silver Award in the National "Internet+" College Students Innovation and Entrepreneurship Competition. Many of the undergraduate and graduate students he supervised have gone on to further studies at top domestic and international universities such as UC Berkeley, Cambridge, Tsinghua University, Peking University, and Tongji University.
 
-Courses Taught: 
-Undergraduate: AI Science and Technology (Information & Intelligent Connectivity), Computer Vision, Fundamentals of Intelligent Transportation, Intelligent Transportation Systems, Transport Economics (Chinese/English), Transportation Technology Innovation Competition 
-Graduate: Transportation Data Analysis and Application, Theory of Sustainable Transportation Development, Environmentally Friendly Pavement Technology (UNEP)
-
-
-# 📖 Educations
-- *2010.09 - 2014.06*, [Tongji University](https://www.tongji.edu.cn/), B.E. in Traffic Engineering.
-- *2017.09 - 2018.09*, [University of Washington](https://www.washington.edu/), Joint Ph.D. Student in Civil & Environmental Engineering.
-- *2014.09 - 2019.06*, [Tongji University](https://www.tongji.edu.cn/), Ph.D. in Transportation Engineering.
-
-# 💻 Professional Experiences
-- *2019.12 - 2022.12*, [Tongji University](https://www.tongji.edu.cn/), Postdoctoral Fellow, College of Transportation.
-- *2021.05 - 2024.03*, [Tongji University](https://www.tongji.edu.cn/), Associate Research Fellow, College of Transportation.
-- *2023.02 - Present*   , [Tongji University](https://www.tongji.edu.cn/), Associate Professor, College of Transportation.
-- *2024.01 - Present* ,   [Tongji University](https://www.tongji.edu.cn/), Deputy Dean, Institute of Transport Science and Technology.
-- *2024.03 - Present* ,   [Tongji University](https://www.tongji.edu.cn/), Research Fellow (Professor Level), College of Transportation.
+He plans to recruit 1 PhD student and 1-2 master's students each year. Students with a background in computer science and interested in the interdisciplinary direction of AI + Transportation are welcome to apply!
 
 # 🔍 Projects
 - 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
@@ -282,22 +264,11 @@ Wenyuan Cai, Yuchuan Du, Difei Wu, Zihang Weng, **Chenglong Liu\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/19.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Sensors
-
-🔥`New！`[A Comprehensive Framework for Evaluating Cycling Infrastructure: Fusing Subjective Perceptions with Objective Data](https://doi.org/10.3390/s25041168)
-
-Kefei Tian, Yifan Zheng, Zhongyu Sun, Zishun Yin, Kai Zhu, **Chenglong Liu\***
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Case Studies in Construction Materials
 
-🔥`New！`[Comprehensive review on greenhouse gas emission assessment over the full life-cycle of pavement](https://doi.org/10.1016/j.cscm.2025.e04407)
+[Comprehensive review on greenhouse gas emission assessment over the full life-cycle of pavement](https://doi.org/10.1016/j.cscm.2025.e04407)
 
 Yuchuan Du, Ziyue Gao, **Chenglong Liu\***, Zihang Weng\*, Xiangyu Ren, Wenxiang Li
 
@@ -308,7 +279,7 @@ Yuchuan Du, Ziyue Gao, **Chenglong Liu\***, Zihang Weng\*, Xiangyu Ren, Wenxiang
 <div class='paper-box-text' markdown="1">
 Measurement
 
-🔥`New！`[Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)
+[Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)
 
 Shan Zhong, Difei Wu, Yuchuan Du, Yu Yan, **Chenglong Liu**, Zihang Weng, Guoqing Wang, Fei Xu
 
@@ -319,7 +290,7 @@ Shan Zhong, Difei Wu, Yuchuan Du, Yu Yan, **Chenglong Liu**, Zihang Weng, Guoqin
 <div class='paper-box-text' markdown="1">
 Computer‐Aided Civil and Infrastructure Engineering
 
-🔥`New！`[A cooperative methodology for multi‐roller automation in pavement construction considering trajectory planning and collaborative operation](https://doi.org/10.1111/mice.13347)
+[A cooperative methodology for multi‐roller automation in pavement construction considering trajectory planning and collaborative operation](https://doi.org/10.1111/mice.13347)
 
 Difei Wu, Sheng Zhong, Man Io Leong, Yishun Li, Boyuan Tian, **Chenglong Liu**, Yuchuan Du
 
@@ -330,7 +301,7 @@ Difei Wu, Sheng Zhong, Man Io Leong, Yishun Li, Boyuan Tian, **Chenglong Liu**, 
 <div class='paper-box-text' markdown="1">
 International Journal of Pavement Engineering
 
-🔥`New！`[Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics](https://www.tandfonline.com/doi/abs/10.1080/10298436.2023.2287688)
+[Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics](https://www.tandfonline.com/doi/abs/10.1080/10298436.2023.2287688)
 
 Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 
@@ -341,7 +312,7 @@ Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 <div class='paper-box-text' markdown="1">
 Automation in Construction
 
-🔥`New！`[Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends](https://www.sciencedirect.com/science/article/pii/S0926580523004454)
+[Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends](https://www.sciencedirect.com/science/article/pii/S0926580523004454)
 
 **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li
 
@@ -352,7 +323,7 @@ Automation in Construction
 <div class='paper-box-text' markdown="1">
 IEEE transactions on intelligent transportation systems
 
-🔥`New！`[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://ieeexplore.ieee.org/abstract/document/10311071)
+[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://ieeexplore.ieee.org/abstract/document/10311071)
 
 Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 
@@ -516,37 +487,24 @@ Transportation Research Part C: Emerging Technologies
 </div>
 </details>
 
-# 📚 Patents
-- 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
-- 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
-- Method of controlling automated driving speed based on comfort level(WO/2018/122586)
-- 🔥`New！`基于多车众筹振动数据的路网级平整度检测方法	ZL202210144895.0
-- 🔥`New！`一种考虑碳排放的路网级全生命养护优化方法	ZL202210139768.1
-- 一种基于关联规则分析的道路深层病害预警方法	ZL202110215728.6
-- 一种振动式路面平整度测试车的标定方法	ZL202110661532.X
-- 一种基于摩擦接触面预估的路面抗滑性能评价方法	ZL202110121825.X
-- 一种路面损伤快速检测和自然数据集构建方法	ZL202110073970.4
-- 一种基于多源特征融合的路面损伤数据时空分析方法	ZL202110074435.0
-
-
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`	同济大学教学成果奖**二等奖**（2025）明体达用、智慧赋能：《交通数据分析与应用》课程建设与创新教学实践
-- 🔥`New！`同济大学青年教师教学竞赛**一等奖**（2025）《计算机视觉》
-- 🔥`New！`北京市科技进步奖**二等奖**（2025）《城市道路智能巡检与精细管养关键技术及工程应用》
-- 🔥`New！`中国智能交通协会科技进步奖**二等奖**（2025）《高频数据驱动的生成式道路养护决策关键技术及应用》
-- 🔥`New！`中国公路学会科技进步**一等奖**（2025）《在役公路网的“巡检-决策-养护”智能装备和系统研发及应用》
-- 广东省科技进步**二等奖**（2024）《城市道路多维运行风险泛在感知与管养决策关键技术及应用》
-- 江西省科技进步**二等奖**（2024）《高速公路数智养护技术研究与应用》
-- 中国公路学会科学技术奖**特等奖**(2023) 《距离高速公路智能建造与运维关键技术研究及应用》
-- 《中国公路学报》年度**优秀论文**(2023) 《新一代智慧高速公路系统架构设计》
-- 中国交通协会科技进步**一等奖**(2023) 《高速公路数智养护与决策平台建设关键技术研究及开发》
-- 上海市**百强高价值专利**(2022) 《轻量化路面巡查系统》专利群，核心专利已完成300万转化
-- 中国**专利优秀奖**(2021)，《一种基于重力加速度传感器的路面平整度检测方法》
-- 江西公路科技进步**一等奖**(2021)《高速公路智慧管养技术研究与应用》
-- 中国发明协会发明创新**一等奖**(2020) 《路面表观损伤智能快速巡检系统研发及应用》
-- 上海市科技进步**一等奖**(2019) 《路面多维高频检测装备和智能养护技术及应用》
-- 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
+- 🔥`New！`陕西省科技进步奖，**二等奖**，排2，2026
+- 🔥`New！`2025领跑者5000（F5000）顶尖论文，通讯作者，《新一代智慧高速公路系统架构设计》
+- 🔥`New！`《中国公路学报》年度优秀论文，通讯作者，《探地雷达多特征融合的城市空洞自动识别方法》，2026
+- 同济大学教学成果奖，**二等奖**，排2，2025
+- 同济大学青年教师教学竞赛，**一等奖**，排1，《计算机视觉》，2025
+- 北京市科技进步奖，**二等奖**，排3，2025
+- 中国智能交通协会科技进步奖，**二等奖**，排1，2025
+- 广东省科技进步奖，**二等奖**，排3，2024
+- 江西省科技进步奖，**二等奖**，排3，2023
+- 《中国公路学报》年度优秀论文，通讯作者，《新一代智慧高速公路系统架构设计》，2023
+- 中国交通协会科技进步奖，**一等奖**，排3，2023
+- 上海市百强高价值专利，《轻量化路面巡查系统》专利簇，2023
+- 中国专利优秀奖，《一种基于重力加速度传感器的路面平整度检测方法》，2021
+- 中国发明协会发明创新奖，**一等奖**，排2，2020
+- 上海市科技进步奖，**一等奖**，排7，2019
+- 中国公路学会科技进步奖，**一等奖**，排4，2017
 
 # 🧑‍💻 People
 <style>
