@@ -504,7 +504,7 @@ Transportation Research Part C: Emerging Technologies
 - 上海市科技进步奖，**一等奖**，排7，2019
 - 中国公路学会科技进步奖，**一等奖**，排4，2017
 
-# 🧑‍💻 People
+# 🧑‍💻 Team
 <style>
 .people-grid {
   display: grid;
