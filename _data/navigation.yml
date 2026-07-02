@@ -3,56 +3,18 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Professional Experiences"
-    url: "/#-professional-experiences"
-
-  - title: "Projects"
-    url: "/#-projects"
-    
-# 新增 News 模块
-  - title: "News"
+  - title: "Research"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Patents"
-    url: "/#-patents"
-  
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-    
-  # 新增 People 模块
-  - title: "People"
+  - title: "Team"
     url: "/#-people"
 
-cn:
+cn: 
   - title: "关于我"
     url: "/cn/#about-me"
 
-  - title: "教育经历"
-    url: "/cn/#-educations"
-
-  - title: "工作经历"
-    url: "/cn/#-professional-experiences"
-
-  - title: "科研项目"
-    url: "/cn/#-projects"
-
-  - title: "新闻动态"
+  - title: "研究进展"
     url: "/cn/#-news"
 
-  - title: "论文发表"
-    url: "/cn/#-publications"
-
-  - title: "专利"
-    url: "/cn/#-patents"
-    
-  - title: "荣誉奖项"
-    url: "/cn/#-honors-and-awards"
-    
   - title: "团队成员"
     url: "/cn/#-people"
