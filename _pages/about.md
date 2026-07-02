@@ -251,6 +251,86 @@ He plans to recruit 1 PhD student and 1-2 master's students each year. Students 
 
 # 📝 Publications 
 📃 Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+🔥`New！`[Human-AI collaborative decision-making for pavement maintenance using Hierarchical Multi-Agent Optimization](https://www.sciencedirect.com/science/article/pii/S0926580526003298)
+
+Jinze Luo, **Chenglong Liu**, Yuchuan Du, Wenyuan Cai
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Advanced Engineering Informatics
+
+🔥`New！`[A weighted Bayesian estimation method for process uncertainty in crowdsourced data for pavement performance prediction](https://www.sciencedirect.com/science/article/pii/S1474034626002703)
+
+Wenyuan Cai, Yuchuan Du, Difei Wu, Feng Li, **Chenglong Liu\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+🔥`New！`[Quadruped robot-enabled framework for intelligent sidewalk condition monitoring](https://www.sciencedirect.com/science/article/pii/S0926580525006405)
+
+Jinze Luo, Qianxun Yang, Yumeng Sun, Lunpeng Li, Wenyuan Cai, Yuchuan Du, **Chenglong Liu\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Friction
+
+🔥`New！`[Vehicle skidding risk evaluation on the basis of the laterally inhomogeneous distribution of pavement friction coefficients](https://www.sciopen.com/article/10.26599/FRICT.2025.9441186)
+
+Zihang Weng, Yuchuan Du, **Chenglong Liu\***, Zhen Leng, Difei Wu, Yishun Li
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/27.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+🔥`New！`[City-Level Pavement Distress Inspection Using Crowdsourced Data of Logistics Vehicles](https://ieeexplore.ieee.org/document/11258597)
+
+**Chenglong Liu**; Hanlin Yang; Difei Wu; Yishun Li; Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/28.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+🔥`New！`[Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer](https://www.sciencedirect.com/science/article/pii/S0926580525004200)
+
+Yishun Li, **Chenglong Liu**, Zihang Weng, Difei Wu, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/29.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+[Unsupervised pavement rutting detection using structured light and area-based deep learning](https://www.sciencedirect.com/science/article/pii/S0926580525002754)
+
+Yishun Li, Lunpeng Li, Shengchuan Jiang, **Chenglong Liu**, Zihang Weng, Yuchuan Du
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
