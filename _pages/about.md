@@ -322,7 +322,7 @@ Yishun Li, **Chenglong Liu**, Zihang Weng, Difei Wu, Yuchuan Du
 <div class='paper-box-text' markdown="1">
 Automation in Construction
 
-[Unsupervised pavement rutting detection using structured light and area-based deep learning](https://www.sciencedirect.com/science/article/pii/S0926580525002754)
+🔥`New！`[Unsupervised pavement rutting detection using structured light and area-based deep learning](https://www.sciencedirect.com/science/article/pii/S0926580525002754)
 
 Yishun Li, Lunpeng Li, Shengchuan Jiang, **Chenglong Liu**, Zihang Weng, Yuchuan Du
 
