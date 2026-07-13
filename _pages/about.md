@@ -644,7 +644,7 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
       <a href="https://kazuki40.github.io/" target="_blank">MIYAZAKI Kazuki</a>
     </div>
     <div class="person-desc">
-      Research interests: Intelligent transportation infrastructure.
+      Research interests: data mining of public transportation data, data bias analysis, disaster prevention, and so on.
     </div>
   </div>
 
