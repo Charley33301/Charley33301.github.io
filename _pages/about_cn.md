@@ -608,17 +608,17 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   
   <div class="person-card">
     <div class="person-name">
-      <a href="https://henryyang-1.github.io/" target="_blank">Hanlin Yang (2024.9-)</a>
+      <a href="https://henryyang-1.github.io/" target="_blank">杨瀚霖 (2024.9-)</a>
     </div>
     <div class="person-desc">
-      Research interests: Intelligent transportation infrastructure and road maintenance decision-making.
+      研究方向：智能交通基础设施与道路养护决策。
     </div>
   </div>
 
   <div class="person-card">
-    <div class="person-name">Jun Wan (2025.9-)</div>
+    <div class="person-name">万君 (2025.9-)</div>
     <div class="person-desc">
-      Research interests: Traffic incident detection and road maintenance decision-making.
+      研究方向：交通事件检测与道路养护决策。
     </div>
   </div>
 
@@ -627,18 +627,32 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 <div class="people-grid">
   
   <div class="person-card">
-    <div class="person-name">Enze Wang (2022.9-)</div>
+    <div class="person-name">王恩泽 (2022.9-)</div>
     <div class="person-desc">
-      Research interests: Automated road infrastructure inspection and maintenance augmented by LLM and embodied AI.
+      研究方向：基于大型语言模型（LLM）和具身人工智能（embodied AI）的自动化道路基础设施检测与维护。
     </div>
   </div>
 
   <div class="person-card">
-    <div class="person-name">Jingtai Luo (2022.9-)</div>
+    <div class="person-name">罗景泰 (2022.9-)</div>
     <div class="person-desc">
-      Research interests: AI-supported intelligent infrastructure and pavement defect detection algorithms.
+      研究方向：基于人工智能的智能基础设施与路面病害检测。
     </div>
   </div>
+
+</div>
+<h3>Research Internship</h3>
+<div class="people-grid">
+
+  <div class="person-card">
+    <div class="person-name">
+      <a href="https://kazuki40.github.io/" target="_blank">宮﨑 一貴</a>
+    </div>
+    <div class="person-desc">
+      研究方向：公共交通数据的数据挖掘、数据偏差分析、灾害预防等。
+    </div>
+  </div>
+
 
 </div>
 <h3>Visiting Students</h3>
