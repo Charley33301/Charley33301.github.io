@@ -636,6 +636,19 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   </div>
 
 </div>
+<h3>Research Internship</h3>
+<div class="people-grid">
+
+  <div class="person-card">
+    <div class="person-name">
+      <a href="https://kazuki40.github.io/" target="_blank">MIYAZAKI Kazuki</a>
+    </div>
+    <div class="person-desc">
+      Research interests: Intelligent transportation infrastructure.
+    </div>
+  </div>
+
+</div>
 <h3>Visiting Students</h3>
 <div class="people-grid">
    <div class="person-card hiring-card" style="border-color: #aaa; background: #f9f9f9;">
