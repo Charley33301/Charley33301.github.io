@@ -139,6 +139,19 @@ redirect_from:
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">团队在国际智能建造与智慧运维大学生科技竞赛中荣获一等奖</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>近日，第二届国际智能建造与智慧运维大学生科技竞赛（The 2nd International Science and Technology Competition on Smart Construction for College Students 2026）总决赛在英国剑桥大学圆满落幕。由刘成龙长聘副教授、杜豫川教授指导，罗金泽、孙宇萌、万君、王恩泽、赵梓乔组成的团队，凭借作品《数智道医——路面智能管养新范式》荣获大赛一等奖。</p>
+      <p>本届竞赛由国际智能建造与智慧运维学会（ISSC）主办，吸引了来自中国内地、中国香港、美国、英国等国家和地区的120余支队伍参与。经过严格评审，来自剑桥大学、清华大学、同济大学等国内外知名高校的29支队伍晋级总决赛。</p>
+      <p>获奖作品面向道路基础设施由"增量建设"转向"存量养护"的现实需求，针对传统道路管养中感知不连续、性能演化难解释等行业痛点，提出覆盖"感知—推演—决策—执行"全过程的智慧养护技术体系，推动道路养护由传统经验驱动向数据与知识协同驱动转变。</p>
+    </div>
+  </div>
+
+<div class="news-grid">
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
       <span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
     </div>
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
