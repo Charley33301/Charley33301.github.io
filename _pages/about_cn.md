@@ -594,8 +594,22 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   color: #0366d6;
   font-weight: bold;
 }
+/* 已毕业学生样式 */
+.alumni-card {
+  background: #f6f8fa;
+  border-left: 4px solid #a0a0a0;
+}
+.alumni-badge {
+  background: #6a737d;
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: normal;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
 </style>
-<h3>Postdoc / Research Fellow</h3>
+<h3>博士后 / 助理研究员</h3>
 <div class="people-grid">
   <div class="person-card hiring-card">
     <div class="hiring-text">
@@ -605,7 +619,7 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   </div>
 </div>
 
-<h3>PhD Students</h3>
+<h3>博士生</h3>
 <div class="people-grid">
   <div class="person-card hiring-card">
     <div class="hiring-text">
@@ -615,7 +629,7 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   </div>
 </div>
 
-<h3>Master Students</h3>
+<h3>硕士生</h3>
 <div class="people-grid">
   
   <div class="person-card">
@@ -634,26 +648,34 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
     </div>
   </div>
 
-</div>
-<h3>Undergraduate Students</h3>
-<div class="people-grid">
-  
   <div class="person-card">
-    <div class="person-name">王恩泽 (2022.9-)</div>
+    <div class="person-name">王恩泽 (2026.9-)</div>
     <div class="person-desc">
       研究方向：基于大型语言模型（LLM）和具身人工智能（embodied AI）的自动化道路基础设施检测与维护。
     </div>
   </div>
 
   <div class="person-card">
-    <div class="person-name">罗景泰 (2022.9-)</div>
+    <div class="person-name">罗景泰 (2026.9-)</div>
     <div class="person-desc">
       研究方向：基于人工智能的智能基础设施与路面病害检测。
     </div>
   </div>
 
 </div>
-<h3>Research Internship</h3>
+<h3>本科生</h3>
+<div class="people-grid">
+  
+  <div class="person-card alumni-card">
+    <div class="person-name">田珂菲 (2022.9-2026.6) <span class="alumni-badge">已毕业</span></div>
+    <div class="person-desc">
+      <strong>毕业去向：</strong>清华大学攻读交通工程硕士学位<br>
+      <strong>研究方向：</strong>主要集中于视觉语言大模型在自动驾驶中的应用，以及智能交通系统，重点关注多模态环境感知、交通场景理解与数据驱动的智慧交通决策。
+    </div>
+  </div>
+
+</div>
+<h3>研究实习生</h3>
 <div class="people-grid">
 
   <div class="person-card">
@@ -667,11 +689,11 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 
 
 </div>
-<h3>Visiting Students</h3>
+<h3>访问学生</h3>
 <div class="people-grid">
    <div class="person-card hiring-card" style="border-color: #aaa; background: #f9f9f9;">
     <div class="hiring-text" style="color: #666;">
-       Open for Visiting Students
+       开放访问学生申请
     </div>
   </div>
 </div>
