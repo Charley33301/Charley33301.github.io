@@ -644,23 +644,23 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
     </div>
   </div>
 
-</div>
-<h3>Undergraduate Students</h3>
-<div class="people-grid">
-  
-  <div class="person-card alumni-card">
-    <div class="person-name">Enze Wang (2022.9-2026.6) <span class="alumni-badge">Graduated</span></div>
+  <div class="person-card">
+    <div class="person-name">Enze Wang (2026.9-) </div>
     <div class="person-desc">
       Research interests: Automated road infrastructure inspection and maintenance augmented by LLM and embodied AI.
     </div>
   </div>
 
-  <div class="person-card alumni-card">
-    <div class="person-name">Jingtai Luo (2022.9-2026.6) <span class="alumni-badge">Graduated</span></div>
+  <div class="person-card">
+    <div class="person-name">Jingtai Luo (2026.9-) </div>
     <div class="person-desc">
       Research interests: AI-supported intelligent infrastructure and pavement defect detection algorithms.
     </div>
   </div>
+
+</div>
+<h3>Undergraduate Students</h3>
+<div class="people-grid">
 
   <div class="person-card alumni-card">
     <div class="person-name">Kefei Tian (2022.9-2026.6) <span class="alumni-badge">Graduated</span></div>
