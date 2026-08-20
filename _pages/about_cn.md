@@ -691,8 +691,8 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 </div>
 <h3>访问学生</h3>
 <div class="people-grid">
-   <div class="person-card hiring-card" style="border-color: #aaa; background: #f9f9f9;">
-    <div class="hiring-text" style="color: #666;">
+   <div class="person-card hiring-card">
+      <div class="hiring-text">
        开放访问学生申请
     </div>
   </div>
