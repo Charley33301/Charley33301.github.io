@@ -589,6 +589,21 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   color: #0366d6;
   font-weight: bold;
 }
+/* 已毕业学生样式 */
+.alumni-card {
+  background: #f6f8fa;
+  border-left: 4px solid #a0a0a0;
+}
+.alumni-badge {
+  background: #6a737d;
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: normal;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
 </style>
 <h3>Postdoc / Research Fellow</h3>
 <div class="people-grid">
@@ -633,17 +648,25 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 <h3>Undergraduate Students</h3>
 <div class="people-grid">
   
-  <div class="person-card">
-    <div class="person-name">Enze Wang (2022.9-)</div>
+  <div class="person-card alumni-card">
+    <div class="person-name">Enze Wang (2022.9-2026.6) <span class="alumni-badge">Graduated</span></div>
     <div class="person-desc">
       Research interests: Automated road infrastructure inspection and maintenance augmented by LLM and embodied AI.
     </div>
   </div>
 
-  <div class="person-card">
-    <div class="person-name">Jingtai Luo (2022.9-)</div>
+  <div class="person-card alumni-card">
+    <div class="person-name">Jingtai Luo (2022.9-2026.6) <span class="alumni-badge">Graduated</span></div>
     <div class="person-desc">
       Research interests: AI-supported intelligent infrastructure and pavement defect detection algorithms.
+    </div>
+  </div>
+
+  <div class="person-card alumni-card">
+    <div class="person-name">Kefei Tian (2022.9-2026.6) <span class="alumni-badge">Graduated</span></div>
+    <div class="person-desc">
+      <strong>Graduation destination:</strong> Tsinghua University, pursuing an M.S. in Transportation Engineering<br>
+      <strong>Research interests:</strong> Vision-Language Models (VLMs) for autonomous driving and Intelligent Transportation Systems (ITS), with particular emphasis on multimodal environmental perception, traffic scene understanding, and data-driven decision-making for intelligent transportation.
     </div>
   </div>
 
