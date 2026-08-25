@@ -609,15 +609,6 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
   margin-left: 6px;
   vertical-align: middle;
 </style>
-<h3>博士后 / 助理研究员</h3>
-<div class="people-grid">
-  <div class="person-card hiring-card">
-    <div class="hiring-text">
-      <i class="fas fa-user-plus"></i> Openings Available<br>
-      <span style="font-size:0.8em; font-weight:normal;">We are looking for talented Postdocs.<br>Welcome to join us!</span>
-    </div>
-  </div>
-</div>
 
 <h3>博士生</h3>
 <div class="people-grid">
