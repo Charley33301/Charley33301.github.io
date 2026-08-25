@@ -649,6 +649,13 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
     </div>
   </div>
 
+  <div class="person-card">
+    <div class="person-name">Gesang Quzhen (2026.9-)</div>
+    <div class="person-desc">
+      Research interests: Landslide identification, analysis, and disaster early warning for mountainous road areas based on satellite remote sensing data.
+    </div>
+  </div>
+
 </div>
 <h3>Undergraduate Students</h3>
 <div class="people-grid">
