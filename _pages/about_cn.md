@@ -653,6 +653,13 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
     </div>
   </div>
 
+  <div class="person-card">
+    <div class="person-name">格桑曲珍 (2026.9-)</div>
+    <div class="person-desc">
+      研究方向：基于卫星遥感数据的山区路域滑坡识别、分析与灾害预警。
+    </div>
+  </div>
+
 </div>
 <h3>本科生</h3>
 <div class="people-grid">
